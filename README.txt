@@ -13,3 +13,5 @@ However, there will also be a button at the top which will allow
 the user to enter a new url of a different picture to be displayed.
 The app will also implement a broadcast receiver that will 
 periodically notify the user of any uncompleted ToDos.   
+
+Sup dog
